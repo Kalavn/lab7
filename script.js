@@ -13,6 +13,7 @@
 */
 
 const secretNumber = Math.trunc(Math.random() * 20) + 1;
+console.log(secretNumber);
 //const secretNumber = 12;
 let score = 20;
 let highestScore = 0;
